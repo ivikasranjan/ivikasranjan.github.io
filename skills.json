@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "Power BI",
+        "icon": "https://img.icons8.com/color/48/000000/power-bi.png"
+    },
+    {
+        "name": "MS Excel",
+        "icon": "https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"
+    },
+    {
+        "name": "MS PowerPoint",
+        "icon": "https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png"
+    },
+    {
+        "name": "MS Word",
+        "icon": "https://img.icons8.com/color/48/000000/microsoft-word-2019--v1.png"
+    },
+    {
+        "name": "Machine Learning",
+        "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/000000/external-machine-learning-robotics-flaticons-lineal-color-flat-icons.png"
+    },
+    {
+        "name": "Deep Learning",
+        "icon": "https://img.icons8.com/external-flatart-icons-outline-flatarticons/48/000000/external-deep-learning-artificial-intelligence-flatart-icons-outline-flatarticons.png"
+    },
+    {
+        "name": "NumPy",
+        "icon": "https://img.icons8.com/color/48/000000/numpy.png"
+    },
+    {
+        "name": "Pandas",
+        "icon": "https://img.icons8.com/color/48/000000/pandas.png"
+    },
+    {
+        "name": "Matplotlib",
+        "icon": "https://img.icons8.com/external-soft-fill-juicy-fish/48/000000/external-graph-graphic-design-soft-fill-soft-fill-juicy-fish.png"
+    },
+    {
+        "name": "Seaborn",
+        "icon": "https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "VS Code",
+        "icon": "https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"
+    },
+    {
+        "name": "PyCharm",
+        "icon": "https://img.icons8.com/color/48/000000/pycharm.png"
+    }
+]
